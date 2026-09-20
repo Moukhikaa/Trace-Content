@@ -19,6 +19,7 @@ Instead of simply asking **"Is this content fake?"**, TRACE investigates:
 
 **Website:**
 https://trace-content.netlify.app/
+https://v0-provenance-swart-1902.vercel.app/
 
 **GitHub:**
 https://github.com/Moukhikaa/Trace-Content
